@@ -7,5 +7,5 @@
     left:-128px:
     top; -128px;
     -webkit-animation: 0.4s bat steps (1) infinite;
-            animation: 0.4s bat steps (1) infinite;
+            animation: 0.4s bat steps (1) infinite;j
 } 
